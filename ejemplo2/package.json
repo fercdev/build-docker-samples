@@ -1,0 +1,12 @@
+{
+  "name": "docker-build-demo",
+  "version": "1.0.0",
+  "description": "Demo de docker build",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
